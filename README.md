@@ -10,11 +10,11 @@ Website features: <br />
 
  list of technologies (frameworks, libraries) <br />
 
-  Markup : 1. list of technologies (frameworks, libraries) <br />
-              1. Firebase hook
-              2. React router dom
-              3. React bootstrap
-              4. Firebase authentication
+   1. list of technologies (frameworks, libraries) <br />
+              1. Firebase hook<br />
+              2. React router dom<br />
+              3. React bootstrap<br />
+              4. Firebase authentication<br />
               5. React Dom
               
           
