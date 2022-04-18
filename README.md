@@ -1,5 +1,7 @@
 Website name : Electricity Services.
 
+website link: https://electricity-services.web.app
+
 Website features: <br />
 
 * One can find which service he wants.
@@ -16,5 +18,6 @@ Website features: <br />
               3. React bootstrap<br />
               4. Firebase authentication<br />
               5. React Dom
+              6.Firebase Deploy
               
           

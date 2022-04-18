@@ -10,35 +10,35 @@
         "id": 2,
         "name": "Installing Circuit",
         "price": "2000",
-        "description": "I will repair any kind of broken circuit ",
-        "img": "https://i.ibb.co/WxxsYw1/rsz-1rsz-rsz-emmanuel-ikwuegbu-0-kl1bjvfc-unsplash.jpg"
+        "description": "New circuit install is now very easy with my service",
+        "img": "https://i.ibb.co/5j4yYxX/rs1.jpg"
     },
     {
         "id": 3,
         "name": "Installing AC",
         "price": "2500",
-        "description": "I will repair any kind of broken circuit ",
-        "img": "https://i.ibb.co/WxxsYw1/rsz-1rsz-rsz-emmanuel-ikwuegbu-0-kl1bjvfc-unsplash.jpg"
+        "description": "Any type of AC will be installed withing short time",
+        "img": "https://i.ibb.co/6nHV6vS/rs2.jpg"
     },
     {
         "id": 4,
         "name": "Whole wiring",
         "price": "12050",
-        "description": "I will repair any kind of broken circuit ",
-        "img": "https://i.ibb.co/WxxsYw1/rsz-1rsz-rsz-emmanuel-ikwuegbu-0-kl1bjvfc-unsplash.jpg"
+        "description": "You will be provided best quality whole wiring of your home or office",
+        "img": "https://i.ibb.co/LYGB6Sq/rs3.jpg"
     },
     {
         "id": 5,
         "name": "Light Setup",
         "price": "550",
-        "description": "I will repair any kind of broken circuit ",
-        "img": "https://i.ibb.co/WxxsYw1/rsz-1rsz-rsz-emmanuel-ikwuegbu-0-kl1bjvfc-unsplash.jpg"
+        "description": "I will setup your home or office light safely ",
+        "img": "https://i.ibb.co/RQQcJcq/rs4.jpg"
     },
     {
         "id": 6,
         "name": "Fan Repair",
         "price": "2500",
-        "description": "I will repair any kind of broken circuit ",
-        "img": "https://i.ibb.co/WxxsYw1/rsz-1rsz-rsz-emmanuel-ikwuegbu-0-kl1bjvfc-unsplash.jpg"
+        "description": "I can repair broken fan any time you want ",
+        "img": "https://i.ibb.co/Kj9zy99/rs5.jpg"
     }
 ]
