@@ -19,6 +19,7 @@ function App() {
   return (
     <div>
       <Header></Header>
+      <h1 className='text-center bg-dark text-light ' >Electricty Services</h1>
       {/* Routes added */}
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
