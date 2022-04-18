@@ -12,6 +12,7 @@ const Header = () => {
     }
     return (
         <>
+            {/* navbar adding */}
             <Navbar collapseOnSelect expand="lg" bg="dark" sticky="top" variant="dark">
                 <Container>
                     <Navbar.Brand as={Link} to="/">Home</Navbar.Brand>
